@@ -1,2 +1,3 @@
 # ResumeDorokhov
-My resume html + css
+## Результат вы можете посмотреть тут:
+https://ivandorokhov.github.io/ResumeDorokhov/
